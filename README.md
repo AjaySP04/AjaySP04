@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AjaySP04
 - 👀 I’m interested in Backend technologies and Machine learning.
-- 🌱 I’m currently learning Golang and Event driven designing.
-- 💞️ I’m looking to collaborate on web framework.
+- 🌱 I’m an engineer building real world system using core principles of software desiging.
+- 💞️ I’m looking to collaborate on web framework, software products that creates impact.
 - 📫 You can reach me over LinkedIn
 
 <!---
